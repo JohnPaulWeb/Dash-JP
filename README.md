@@ -1,4 +1,6 @@
-# React + Vite
+# React + Vite-JP
+
+#This is the Dashboard
 
 #This is JohnPaul if you want help just message me 
 
